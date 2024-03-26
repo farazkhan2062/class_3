@@ -2,5 +2,6 @@
 function square(num) {
     console.log(num * num);
 }
-square(3);
-square(8);
+square(4);
+square(5);
+console.log(square(2));
